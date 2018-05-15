@@ -7,4 +7,4 @@ Github has a lot of 'awesome lists'. Here's mine.
 
 [FARR](https://www.donationcoder.com/software/mouser/popular-apps/farr) - A launcher that is very cutomizable. Does not index files, uses heuristics
 
-[AutoHotkey](https://autohotkey.com/)
+[AutoHotkey](https://autohotkey.com/) - "The ultimate automation scripting language for Windows."
