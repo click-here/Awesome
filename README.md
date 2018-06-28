@@ -16,3 +16,5 @@ Github has a lot of 'awesome lists'. Here's mine.
 [Draw IO](https://www.draw.io/) - Don't have Visio? Would it be overkill if you had it? Just don't like Visio? Check out draw.io
 
 ## Data
+
+[US States](https://github.com/click-here/Awesome/blob/master/Data/50states.txt) - Sometimes you just need a clean list of the 50 states.
