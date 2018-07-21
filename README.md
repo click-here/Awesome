@@ -17,6 +17,8 @@ Github has a lot of 'awesome lists'. Here's mine.
 
 [Desktop Coral](http://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral) - "program designed to "reserve" some portion of your desktop which is shielded from maximized applications"
 
+[video-2-mp3](http://www.dcmembers.com/skwire/download/video-2-mp3/) - Easily get the audio from an MP3 if you'd rather not ffmpeg
+
 ## Data
 
 [US States](https://github.com/click-here/Awesome/blob/master/Data/50states.txt) - Sometimes you just need a clean list of the 50 states.
