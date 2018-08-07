@@ -1,5 +1,5 @@
 # 'Awesome' List
-Github has a lot of 'awesome lists'. Here's mine.
+Github has a lot of 'awesome lists'. Here's mine. Well not yet, it's kind of a mess actually right now...
 
 ## Software
 
@@ -26,3 +26,6 @@ Github has a lot of 'awesome lists'. Here's mine.
 ## Data
 
 [US States](https://github.com/click-here/Awesome/blob/master/Data/50states.txt) - Sometimes you just need a clean list of the 50 states.
+
+## Ipython things I like
+[`%load`](https://ipython.readthedocs.io/en/stable/interactive/magics.html#magic-load)
