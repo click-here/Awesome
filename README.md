@@ -29,3 +29,4 @@ Github has a lot of 'awesome lists'. Here's mine. Well not yet, it's kind of a m
 
 ## Ipython things I like
 [`%load`](https://ipython.readthedocs.io/en/stable/interactive/magics.html#magic-load)
+['%notebook'](https://ipython.readthedocs.io/en/stable/interactive/magics.html#magic-notebook)
