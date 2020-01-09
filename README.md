@@ -19,10 +19,6 @@ Github has a lot of 'awesome lists'. Here's mine. Well not yet, it's kind of a m
 
 [video-2-mp3](http://www.dcmembers.com/skwire/download/video-2-mp3/) - Easily get the audio from an MP3 if you'd rather not ffmpeg
 
-## Silly Software
-
-[Key Counter](http://www.dcmembers.com/skwire/download/keycounter/) - If you ever wanted to chart your keystrokes, start here.
-
 ## Data
 
 [US States](https://github.com/click-here/Awesome/blob/master/Data/50states.txt) - Sometimes you just need a clean list of the 50 states.
@@ -30,3 +26,7 @@ Github has a lot of 'awesome lists'. Here's mine. Well not yet, it's kind of a m
 ## Ipython things I like
 [`%load`](https://ipython.readthedocs.io/en/stable/interactive/magics.html#magic-load)
 ['%notebook'](https://ipython.readthedocs.io/en/stable/interactive/magics.html#magic-notebook)
+
+## Image Processing
+
+http://www.fmwconcepts.com/imagemagick
